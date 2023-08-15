@@ -18,7 +18,7 @@ A tool to fetch and display item prices for the Albion Online game.
 
 ## Usage
 
-1. Run the script `python process_items_file.py` to create "items.txt" file with item id.
+1. Run the `python process_items_file.py` script to create an "items.txt" file with the item id, or create the "items.txt" file yourself and enter the parsing IDs you need.
 2. Run the script: `python fetch_prices.py` to start items parcer.
 
 ## Contributions
