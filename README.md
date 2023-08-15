@@ -1,6 +1,5 @@
 # Albion Online Item Prices Fetcher
 ![GitHub](https://img.shields.io/github/license/Drayff/ao-prices-parser)
-![GitHub all releases](https://img.shields.io/github/downloads/Drayff/ao-prices-parser/total)
 
 A tool to fetch and display item prices for the Albion Online game.
 
