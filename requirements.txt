@@ -1,5 +1,5 @@
 requests
-configparser
-json
+configparser=
 wget
 tqdm
+json
